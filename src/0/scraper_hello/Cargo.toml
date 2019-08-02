@@ -1,0 +1,12 @@
+[package]
+name = "scraper_hello"
+version = "0.1.0"
+authors = ["ytyaru <ytyaru@outlook.jp>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+#scraper = "*"
+scraper = "0.9"
+
